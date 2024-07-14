@@ -1,0 +1,16 @@
+# Ignora la cartella node_modules
+node_modules/
+
+
+# Ignora i file di output di Tailwind CSS (personalizza secondo il tuo setup)
+src/input.css
+
+# Ignora i file di configurazione di Tailwind CSS generati automaticamente
+tailwind.config.js
+postcss.config.js
+
+# Ignora cartelle di editor e sistema operativo
+.DS_Store
+.idea/
+.vscode/
+*.swp
